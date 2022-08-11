@@ -14,5 +14,53 @@
         "last_name": "Chumpitaz",
         "birth_date": "2021-01-11",
         "password": "holasoyjose"
+    },
+    {
+        "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afc6",
+        "email": "sdf@example.com",
+        "first_name": "Jose",
+        "last_name": "Chumpitaz",
+        "birth_date": "2021-01-11",
+        "password": "holasoyjose"
+    },
+    {
+        "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afc6",
+        "email": "sdf@example.com",
+        "first_name": "Jose",
+        "last_name": "Chumpitaz",
+        "birth_date": "2021-01-11",
+        "password": "holasoyjose"
+    },
+    {
+        "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "email": "casa@example.com",
+        "first_name": "casa",
+        "last_name": "cama",
+        "birth_date": "2022-08-11",
+        "password": "holasoyvlis"
+    },
+    {
+        "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "email": "casa@example.com",
+        "first_name": "elvis",
+        "last_name": "cruz",
+        "birth_date": "2022-08-11",
+        "password": "elviscruz"
+    },
+    {
+        "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "email": "marco@example.com",
+        "first_name": "jose",
+        "last_name": "carlos",
+        "birth_date": "2022-08-11",
+        "password": "holasoyjose"
+    },
+    {
+        "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "email": "marco@example.com",
+        "first_name": "jose",
+        "last_name": "carlos",
+        "birth_date": "2022-08-11",
+        "password": "holasoyjose"
     }
 ]
